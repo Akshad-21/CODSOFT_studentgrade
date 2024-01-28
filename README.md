@@ -8,3 +8,4 @@
 4. Grade Calculation: Assign grades based on the average percentage achieved.
 5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 ## this is how the program runs👀
+https://github.com/Akshad-21/CODSOFT_studentgrade/assets/156450300/cd538b3a-a85c-423d-a4ab-dfa6444e0767
